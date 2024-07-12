@@ -1,0 +1,1 @@
+# A CRM app using django and mysql. One can add records, delete records, update records with the aid of this app. This app has log in and log out functionalities built in.
